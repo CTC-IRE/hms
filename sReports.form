@@ -35,7 +35,7 @@
     <Component class="javax.swing.JButton" name="butPrint">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/hms/pro/img/reports.png"/>
+          <Image iconType="3" name="/hms/img/reports.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="PRINT"/>
       </Properties>
@@ -196,7 +196,7 @@
     <Component class="javax.swing.JButton" name="btnSearchtxns">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/hms/pro/img/search x30.png"/>
+          <Image iconType="3" name="/hms/img/search x30.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="SEARCH"/>
       </Properties>

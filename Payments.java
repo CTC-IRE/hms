@@ -167,7 +167,7 @@ public class Payments extends javax.swing.JPanel {
 
         setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        btnConPay.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/pro/img/invo.png"))); // NOI18N
+        btnConPay.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/img/invo.png"))); // NOI18N
         btnConPay.setText("PAY");
         btnConPay.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -303,7 +303,7 @@ public class Payments extends javax.swing.JPanel {
         add(txtResid, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 410, 88, 30));
         add(txtPaySearch, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 330, 210, 30));
 
-        btnSearchGuests.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/pro/img/search x30.png"))); // NOI18N
+        btnSearchGuests.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/img/search x30.png"))); // NOI18N
         btnSearchGuests.setText("Search Clients");
         btnSearchGuests.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -316,7 +316,7 @@ public class Payments extends javax.swing.JPanel {
         jLabel3.setText("PAYMENTS");
         add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 0, 123, 33));
 
-        btnRefreshDis.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/pro/img/update.png"))); // NOI18N
+        btnRefreshDis.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/img/update.png"))); // NOI18N
         btnRefreshDis.setText("Clear Search");
         btnRefreshDis.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -397,7 +397,7 @@ public class Payments extends javax.swing.JPanel {
         panInv.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 10, -1, -1));
 
         jLabel12.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/pro/img/HeaderLogo1.JPG"))); // NOI18N
+        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/img/Logo.png"))); // NOI18N
         jLabel12.setVerticalAlignment(javax.swing.SwingConstants.TOP);
         panInv.add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, 180, 80));
 

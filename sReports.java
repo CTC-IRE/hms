@@ -92,7 +92,7 @@ public class sReports extends javax.swing.JPanel {
 
         setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        butPrint.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/pro/img/reports.png"))); // NOI18N
+        butPrint.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/img/reports.png"))); // NOI18N
         butPrint.setText("PRINT");
         butPrint.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -147,7 +147,7 @@ public class sReports extends javax.swing.JPanel {
 
         add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 10, 680, 520));
 
-        btnSearchtxns.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/pro/img/search x30.png"))); // NOI18N
+        btnSearchtxns.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/img/search x30.png"))); // NOI18N
         btnSearchtxns.setText("SEARCH");
         btnSearchtxns.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

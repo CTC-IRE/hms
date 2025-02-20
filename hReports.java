@@ -130,7 +130,7 @@ public class hReports extends javax.swing.JPanel {
         setPreferredSize(new java.awt.Dimension(1000, 321));
         setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        butOccRep.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/pro/img/reports.png"))); // NOI18N
+        butOccRep.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/img/reports.png"))); // NOI18N
         butOccRep.setText("SHOW");
         butOccRep.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -139,7 +139,7 @@ public class hReports extends javax.swing.JPanel {
         });
         add(butOccRep, new org.netbeans.lib.awtextra.AbsoluteConstraints(1030, 530, 120, 50));
 
-        butOccPrint.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/pro/img/invo.png"))); // NOI18N
+        butOccPrint.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/img/invo.png"))); // NOI18N
         butOccPrint.setText("PRINT");
         butOccPrint.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

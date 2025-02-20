@@ -317,7 +317,7 @@ public class MainDesk extends javax.swing.JPanel {
 
         pnlFD.add(jScrollPane8, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 80, 460, 130));
 
-        btnRefreshDis.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/pro/img/update.png"))); // NOI18N
+        btnRefreshDis.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/img/update.png"))); // NOI18N
         btnRefreshDis.setText("Clear Search");
         btnRefreshDis.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -327,7 +327,7 @@ public class MainDesk extends javax.swing.JPanel {
         pnlFD.add(btnRefreshDis, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 220, 130, 30));
         pnlFD.add(txtClientSearch, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 220, 210, 30));
 
-        btnSearchGuests.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/pro/img/search x30.png"))); // NOI18N
+        btnSearchGuests.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/img/search x30.png"))); // NOI18N
         btnSearchGuests.setText("Search");
         btnSearchGuests.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -438,7 +438,7 @@ public class MainDesk extends javax.swing.JPanel {
         });
         add(butCreate, new org.netbeans.lib.awtextra.AbsoluteConstraints(990, 270, 160, 40));
 
-        butSav.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/pro/img/save.png"))); // NOI18N
+        butSav.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hms/img/save.png"))); // NOI18N
         butSav.setText("SAVE");
         butSav.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

@@ -43,7 +43,7 @@
     <Component class="javax.swing.JButton" name="butOccRep">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/hms/pro/img/reports.png"/>
+          <Image iconType="3" name="/hms/img/reports.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="SHOW"/>
       </Properties>
@@ -59,7 +59,7 @@
     <Component class="javax.swing.JButton" name="butOccPrint">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/hms/pro/img/invo.png"/>
+          <Image iconType="3" name="/hms/img/invo.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="PRINT"/>
       </Properties>

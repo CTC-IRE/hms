@@ -546,7 +546,7 @@
         <Component class="javax.swing.JButton" name="btnRefreshDis">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/hms/pro/img/update.png"/>
+              <Image iconType="3" name="/hms/img/update.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Clear Search"/>
           </Properties>
@@ -569,7 +569,7 @@
         <Component class="javax.swing.JButton" name="btnSearchGuests">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/hms/pro/img/search x30.png"/>
+              <Image iconType="3" name="/hms/img/search x30.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Search"/>
           </Properties>
@@ -830,7 +830,7 @@
     <Component class="javax.swing.JButton" name="butSav">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/hms/pro/img/save.png"/>
+          <Image iconType="3" name="/hms/img/save.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="SAVE"/>
       </Properties>
