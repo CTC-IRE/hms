@@ -12,3 +12,23 @@ compile code
 customise if you like
 
 This took 3 weeks on and off along with other work.
+
+
+Folder Structure:
+hms
++-src
+    +-hms
+        +-img
+          (the image files)
+        +-pro
+          (The Code)
+           +-img
+             (Icon.png)
+  (once in Netbeans)
++-build
++-dist
++-lib
++-nbproject
++-test
+
+
